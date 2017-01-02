@@ -1,9 +1,12 @@
-Bitcoin Core integration/staging tree
+Welcome to BITTUCOIN
 =====================================
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+What is Bittucoin?
+----------------
+
+Bittucoin is exactly the same as bitcoin, except MAX_BLOCK_SIZE is 69 million instead of 40 million, because why not ?
+
 
 What is Bitcoin?
 ----------------
